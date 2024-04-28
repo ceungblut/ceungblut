@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ceungblut
 - 👀 I’m interested in ... Data Engineering, Data Science and Anayltics Projects
-- 🌱 I’m currently learning .... JavaScript, AWS Cloud Platforms 
+- 🌱 I’m currently learning .... AWS Cloud Services, C & JavaScript
 - 💞️ I’m looking to collaborate on Data Projects
 - 📫 How to reach me ... c.eungblut@hotmail.com
 - 😄 Pronouns: ... He/Him
