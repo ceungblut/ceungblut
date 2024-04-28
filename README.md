@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Projects
 - 📫 How to reach me ... c.eungblut@hotmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm undertaking an MSc in Computer Science with Artificial Intelligence
+- ⚡ Fun fact: ... I'm currently studying MSc Computer Science with Artificial Intelligence
 
 <!---
 ceungblut/ceungblut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
